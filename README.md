@@ -39,7 +39,7 @@ o	ARM CORTEX R4, ARM CORTEX R5
 o	ARM CORTEX M0, ARM CORTEX M0+, ARM CORTEX M1, ARM CORTEX M3, ARM CORTEX M4
  
 
-## ARM CORTEX M3-LPC1768 ARCHITECTURE
+## ARM CORTEX M3-LPC1768 ARCHITECTURE:
 
 
 The processor has Harvard Architecture, which means it has separate instruction bus and data bus. This allows instruction and data access take place at the same time which results in higher performance.
@@ -47,6 +47,6 @@ The processor has Harvard Architecture, which means it has separate instruction 
 ## Output:
 
 ## Result:
-    Thus a LED is interfaced with ARM LPC1768 microprocessor and its blinking was verified successfully.
+Thus a LED is interfaced with ARM LPC1768 microprocessor and its blinking was verified successfully.
  
 
