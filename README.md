@@ -28,7 +28,7 @@ ARM PROCESSOR – CHARACTERISTICS:
 ## ARM PROCESSOR – SERIES:
 
 □	ARM Processor are categorized based on following for high performance  with low power consumption
-o	A – Application (for application of processor), implemented by 32-bit cores in the Cortex-A series and by some non-ARM cores.
+o	A – Application (for application of processor), implemented by 32-bit cores in the Cortex-A series and by some non-ARM cores..
 o	R - Real Time Application (for real time characteristics), implemented by cores in the Cortex-R series.
 o	M - Microcontroller (for microcontroller application), implemented by most cores in the Cortex-M series.
 □	Some of the series are
